@@ -1,26 +1,26 @@
 <!DOCTYPE html>
     <html lang="en">
-         <!-- navigation -->
     <head>
          <meta charset="UTF-8" />
          <title>Run Buddy</title>
-            <link rel="stylesheet" href="./assets/css/stlye.css"/>
+            <link rel="stylesheet" href="./assets/css/style.css"/>
     </head> 
-        
+        <body>
             <header>
                 <h1>
-                    <a href="/"></a>RUN BUDDY
+                    <a href="/">RUN BUDDY</a>
                 </h1>
+               <!-- navigation -->
                 <nav>
                     <!-- Unordered list element -->
                     <ul>
                         <!-- List item element -->
                         <li>
                             <!-- Anchor element -->
-                            <a href="#what-you-do">What We Do</a>
+                            <a href="#what-we-do">What We Do</a>
                         </li>
                         <li>
-                            <a href="#what-you-do">What You Do</a>>
+                            <a href="#what-you-do">What You Do</a>
                         </li>
                         <li>
                             <a href="#your-trainers">Your Trainers</a>
@@ -32,7 +32,7 @@
                 </nav>
             </header>
         <!-- Hero Section -->
-        <section>
+        <section class="hero">
             <div>
                 <h3>Get Started Today</h3>
                 <p>Fill out this form and one of our trainers will schedule a consult</p>
@@ -43,7 +43,7 @@
                <label for="email">Enter email address</label>
                <input type="email" placeholder="Email Address" name="email" id="email"/>
                <label for="phone">Enter a telephone number</label>
-               <input type="text" placeholder="Phone Number" name="phone" id="phone"/>
+               <input type="tel" placeholder="Phone Number" name="phone" id="phone"/>
                <p>
                    Have you worked out with a trainer before?
                    <input type="radio" name="trainer-confirm" id="trainer-yes" />
@@ -64,7 +64,6 @@
             </div>
         </section>
         <!-- end hero -->
-        <body>
             <!-- hero/jumbotron-->
             <section>
 
