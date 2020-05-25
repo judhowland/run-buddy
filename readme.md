@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ![ScreenShot](Run-Buddy-Screenshot.png)
 
@@ -7,14 +7,16 @@ A website that offers fitness training services
 
 ## Built With
 * HTML
-* CSS
+* CSS 
 
-## Edits Done
+## History of Edits
 1. Created a stylish landing page with link to Privacy Policy.
 2. Updated the code to be organized.
 
-## Website
-Live Link: https://judhowland.github.io/run-buddy/
+## Website 
+https://judhowland.github.io/run-buddy/
 
-## Contribution
+## Conntribution
 Made with ❤️ by Jud Howland
+
+### ©️2019 Run Buddy, Inc
