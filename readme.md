@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Run Buddy Inc.
+=======
+# Run Buddy, Inc
+>>>>>>> a3e851902ecc6ed9c07917ed80f51239e24b7305
 
 ![ScreenShot](Run-Buddy-Screenshot.png)
 
@@ -18,3 +22,5 @@ https://judhowland.github.io/run-buddy/
 
 ## Conntribution
 Made with ❤️ by Jud Howland
+
+### ©️2019 Run Buddy, Inc
