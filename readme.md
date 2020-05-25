@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ![ScreenShot](Run-Buddy-Screenshot.png)
 
@@ -18,3 +18,5 @@ https://judhowland.github.io/run-buddy/
 
 ## Conntribution
 Made with ❤️ by Jud Howland
+
+### ©️2019 Run Buddy, Inc
