@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy Inc.
 
 ![ScreenShot](Run-Buddy-Screenshot.png)
 
