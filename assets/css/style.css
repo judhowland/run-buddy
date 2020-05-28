@@ -186,6 +186,7 @@ section {
 
 /* What We Do Style End */
 
+/* Trainers Section Begin */
 .section-title {
     font-size: 48px;
     color: #024e76; 
@@ -233,6 +234,23 @@ section {
 .trainer-bio p {
     font-size: 17px;
 }
+/* Trainers Section End */
+
+/* Service Plan Grid Section Begin */
+
+.service-grid-container {
+    display: grid;
+}
+
+.service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+}
+
+/* Service Plan Grid Section End */
 
 /* Reach Out Style Begin */
 .contact {
