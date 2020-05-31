@@ -639,7 +639,7 @@ footer a {
     }
 
     .trainer-bio h3, .trainer-bio h4 {
-        display: inline;
+        display: inline-block;
     }
 
     .contact-info iframe {
