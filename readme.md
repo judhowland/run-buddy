@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+# Run Buddy Inc.
+=======
 # Run Buddy, Inc
+>>>>>>> a3e851902ecc6ed9c07917ed80f51239e24b7305
 
 ![ScreenShot](Run-Buddy-Screenshot.png)
 
